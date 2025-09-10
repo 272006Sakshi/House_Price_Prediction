@@ -21,7 +21,9 @@ house-price-prediction/
 ├── Housing.csv 
 
 ├── house_price_prediction.ipynb # Jupyter Notebook with full solution
+
 ├── model/
+
 │ └── house_price_model.pkl # Saved trained model
 
 ├── requirements.txt # Python dependencies
