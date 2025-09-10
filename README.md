@@ -17,11 +17,15 @@ A simple Machine Learning project to predict house prices using Python, pandas, 
 ## ✅ Project Structure
 
 house-price-prediction/
-├── Housing.csv # Dataset
+
+├── Housing.csv 
+
 ├── house_price_prediction.ipynb # Jupyter Notebook with full solution
 ├── model/
 │ └── house_price_model.pkl # Saved trained model
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project overview
 
 
@@ -29,5 +33,5 @@ house-price-prediction/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/272006Sakshi/house-price-prediction.git
    cd house-price-prediction
